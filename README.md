@@ -49,6 +49,10 @@ Eric Diaz (Udemy Hacking Courses) \
 https://www.udemy.com/user/eric-daiz/  
 50% off with code: 50OFFNOVEMBER
 
+Burp Suite Certified Practitioner
+https://portswigger.net/web-security/certification
+They slashed the price of the exam and they'll refund you if you pass.
+
 ------------------------------------------------------------------------------------------------------------------
 
 
